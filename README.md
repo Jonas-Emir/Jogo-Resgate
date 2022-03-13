@@ -1,3 +1,11 @@
-# jogo-de-naves
-## Construindo um jogo utilizando HTML/CSS/JAVASCRIPT
-## Projeto do Bootcamp Take blip
+<h1 align="center"> Jogo de Naves </h1>
+
+ > <b>Projeto completo do Bootcamp Take Blip</b>
+
+### Tecnologias
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
+    <img align="center" alt="" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
+    <img align="center" alt="" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png">
+</div>
