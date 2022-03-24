@@ -2,7 +2,6 @@
   
 <h2 align="center">APLICANDO JAVASCRIPT</h2> 
 
-![JOGO]()
 
 
    <h3 align="center">Projeto do Bootcamp Take Blip Web Developer</h3>
